@@ -1,0 +1,19 @@
+recipe = [
+    {
+         'id':1,
+         'name':u'Pasta Mix',
+         'ingredients':['Spagetti','Tomato & Onion Mix','Olive Oil','Basil'],
+         'instructions':['Bring water to a boil',
+                          'Add a cup of Olive Oil',
+                          'Add Spagetti',
+                          'Boil for approx 20min',
+                          'Drain water',
+                          'Rinse pasta with cold water',
+                          'Add tin of Tomatoe & Onion Mix',
+                          'Stir while on stove for 5min',
+                          'Serve']
+    }
+
+   
+]
+
