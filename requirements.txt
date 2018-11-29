@@ -19,7 +19,6 @@ opencv-python==3.4.3.18
 Pillow==5.1.0
 pycairo==1.16.2
 pycrypto==2.6.1
-pygobject==3.26.1
 PyPDF2==1.26.0
 pyxdg==0.25
 reportlab==3.4.0
