@@ -51,6 +51,11 @@ recipe = [
     }
 ]
 
+#landing page
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+
 #get all items
 @app.route('/foody/api/pantry/',methods=['GET'])
 def get_items():
